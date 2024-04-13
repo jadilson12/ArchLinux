@@ -1,0 +1,8 @@
+asdf-vm
+brave-bin
+forticlient-vpn
+google-chrome
+intellij-idea-community-edition-jre
+postman-bin
+teams
+visual-studio-code-bin

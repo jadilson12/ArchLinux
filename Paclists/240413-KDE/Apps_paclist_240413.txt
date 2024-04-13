@@ -1,0 +1,10 @@
+haveged
+mpv
+yt-dlp
+filezilla
+firefox
+iotop
+flatpak
+libreoffice-fresh
+neofetch
+upower

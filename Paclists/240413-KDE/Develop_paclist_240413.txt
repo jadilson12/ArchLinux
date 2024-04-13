@@ -1,0 +1,12 @@
+python-pillow
+python-pip
+python-pyqt5
+python-reportlab
+system-config-printer
+docker
+docker-compose
+nodejs 
+yarn 
+npm
+git
+base-devel
